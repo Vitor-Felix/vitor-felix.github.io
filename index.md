@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [link-test](tribute.html) Same repository: ok!
 [test-to-another-repo](https://github.com/Vitor-Felix/Responsive-Web-Design-Projects-Build-a-Tribute-Page/blob/main/index.html) Do not work :/
 [tribute-page](freecodecamp/resp-web-design/tribute-page/tribute.html)
+[flex-box sample](flex-box-sample/flex-box-sample.html)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
